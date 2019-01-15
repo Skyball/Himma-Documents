@@ -48,5 +48,7 @@ cp -r /usr/kk  /usr/install
 rm -rf targetFolder
 ```
 
+### df -h
 
+**df命令可以显示目前所有文件系统的可用空间及使用情形**,    参数 -h 表示使用「Human-readable」的输出，也就是在档案系统大小使用 GB、MB 等易读的格式。
 
